@@ -16,6 +16,10 @@
 
   ![alt](./client/images/img5.png)
 
+- Liên hệ qua zalo
+
+  ![alt](./client/images/img7.png)
+
 - Sau khi đăng nhập người dùng có thể đăng tin, quản lý thông tin cá nhân
 
   ![alt](./client/images/img.png)
